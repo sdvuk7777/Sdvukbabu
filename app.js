@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 
 // Static Token (Replace with your actual token)
-const TOKEN = "Bearer 56256642|RFHgzz5qzbLIl2Q56MEkIvXkF1cZLfWg9m4d9kEW513e5ded";
+const TOKEN = "Bearer 57464258|gUlT5JbLAjLLLqJf6VETioZMx8rp0ukB6jxJiwoyac635fd1";
 
 // HTTPS Agent to handle SSL issues (optional)
 const agent = new https.Agent({ rejectUnauthorized: false });
